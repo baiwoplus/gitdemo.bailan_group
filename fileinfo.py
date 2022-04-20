@@ -6,6 +6,7 @@
 # Modifications     :
 
 # Description           : Show file information for a given file
+<<<<<<< HEAD
 
 
 # get file information using os.stat()
@@ -57,3 +58,5 @@ print("last accessed =", file_info['f_la'])
 print("creation time =", file_info['f_ct'])
 print("Total number of lines are =", file_info['no_of_lines'])
 print("Total number of characters are =", file_info['t_char'])
+=======
+>>>>>>> 308106a5fa532c1c768eaed86396bd4e26639a72
